@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
 }
 
 *, *::before, *::after {

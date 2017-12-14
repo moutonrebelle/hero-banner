@@ -14,6 +14,7 @@ body {
 }
 
 h2 {
+  font-weight: bold;
   line-height: 1.4;
   display: inline;
   font-size: 4rem;
@@ -24,6 +25,8 @@ h2 {
 p {
   font-size: 2rem;
   font-style: italic;
+  margin-top: .25em;
+  margin-bottom: 1em;
 }
 
 .banner {
@@ -39,9 +42,9 @@ p {
   max-width: 50em;
   padding-left: 1em;
   padding-right: 1em;
-  transform: translateX(-50%);
+  transform: translateX(-49%);
   left: 50%;
-  bottom: 1;
+  bottom: 0;
 }
 
 .img-flex {
